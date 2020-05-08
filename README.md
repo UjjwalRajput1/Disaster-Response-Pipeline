@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
+# Disaster Response Pipeline Project (Udacity)
 
 ![Intro Pic](screenshots/intro.png)
 
