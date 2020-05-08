@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project (Udacity)
+# Disaster Response Pipeline
 
 ![Intro Pic](screenshots/intro.png)
 
