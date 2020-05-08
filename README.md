@@ -22,9 +22,9 @@ This Project is part of Data Science Nanodegree Program by Udacity in collaborat
 
 This project is divided in the following key sections:
 
-1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB
-2. Build a machine learning pipeline to train the which can classify text message in various categories
-3. Run a web app which can show model results in real time
+1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB.
+2. Build a machine learning pipeline to train the which can classify text message in various categories.
+3. Run a web app which can show model results in real time.
 
 <a name="getting_started"></a>
 ## Getting Started
@@ -32,7 +32,7 @@ This project is divided in the following key sections:
 <a name="dependencies"></a>
 ### Dependencies
 * Python 3.5+
-* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+* Machine Learning Libraries: NumPy, SciPy, Sckit-Learn ,Pandas 
 * Natural Language Process Libraries: NLTK
 * SQLlite Database Libraqries: SQLalchemy
 * Model Loading and Saving Library: Pickle
