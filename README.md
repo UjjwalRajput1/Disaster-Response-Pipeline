@@ -42,7 +42,7 @@ This project is divided in the following key sections:
 ### Installing
 To clone the git repository:
 ```
-git clone https://github.com/canaveensetia/udacity-disaster-response-pipeline.git
+https://github.com/UjjwalRajput1/Disaster-Response-Pipeline.git
 ```
 <a name="execution"></a>
 ### Executing Program:
